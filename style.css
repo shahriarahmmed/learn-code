@@ -1,0 +1,14 @@
+.carousel-item {
+   height: 100vh;
+   min-height: 300px;
+}
+.carousel-caption {
+    bottom: 220px;
+}
+.hero-img {
+    max-height: 460px !important;
+}
+#cover-1 {
+    background-image: url(images/cover/cover-1.png);
+    height: 100px;
+}
