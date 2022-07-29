@@ -1,14 +1,6 @@
-.carousel-item {
-   height: 100vh;
-   min-height: 300px;
+body {
+    font-family: 'Poppins', sans-serif !important;
 }
-.carousel-caption {
-    bottom: 220px;
-}
-.hero-img {
-    max-height: 460px !important;
-}
-#cover-1 {
-    background-image: url(images/cover/cover-1.png);
-    height: 100px;
+.courses {
+    justify-content: center !important;
 }
